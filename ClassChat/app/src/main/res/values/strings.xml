@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ClassChat</string>
+    <string name="title_login">Login</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">contraseña</string>
+    <string name="remember_lbl">recuerdame</string>
+    <string name="password_recovery">olvidaste la contraseña?</string>
+</resources>
